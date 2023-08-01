@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from 'next/head';
 
 const About = () => {
   return (
@@ -8,9 +8,11 @@ const About = () => {
         <meta name="keywords" content="ninjas" />
       </Head>
       <div>
-        <h1>About</h1>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo, fugiat nobis. Inventore ad asperiores unde qui ipsa placeat, earum itaque quisquam, eos quidem fugiat dicta facere perspiciatis quis? Veritatis, aspernatur!</p>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo, fugiat nobis. Inventore ad asperiores unde qui ipsa placeat, earum itaque quisquam, eos quidem fugiat dicta facere perspiciatis quis? Veritatis, aspernatur!</p>
+        <h1>Fun facts about Ninjas</h1>
+        <p>Why did the ninja become a chef?<br />
+          Because he was an expert at slicing and dicing!</p>
+        <p>Why did the ninja break up with his girlfriend?<br />
+          He felt like she was "throwing stars" at his heart!</p>
       </div>
     </>
    );
