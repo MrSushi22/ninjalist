@@ -12,7 +12,7 @@ const About = () => {
         <p>Why did the ninja become a chef?<br />
           Because he was an expert at slicing and dicing!</p>
         <p>Why did the ninja break up with his girlfriend?<br />
-          He felt like she was "throwing stars" at his heart!</p>
+          He felt like she was &quot;throwing stars&quot; at his heart!</p>
       </div>
     </>
    );
